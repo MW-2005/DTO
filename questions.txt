@@ -1,5 +1,5 @@
-name: <name here>
-date: <date here>
+name: <Mya Walker>
+date: <7/1/21>
 
 Data Types and Operations | Questions
 
@@ -9,35 +9,37 @@ Please answer all of the following questions thoughtfully and completely.
 
 1a - What is the resulting type of two integers used together for an operation, like 5 + 4?
 
-
+you get an integer as a responce
 
 1b - Is there an exception to this rule, with a certain operator?
 
-
+macking it a string
 
 2a - What is the resulting type of an integer and a float used together for an operation, like -11.4 - 5?
 
-
+a float
 
 2b - Is there an exception to this rule, with a certain operator?
 
-
+i think with a %
 
 3a - What is the resulting type of two floats used together for an operation, like 2.3 * .45?
 
-
+a float
 
 3b - Is there an exception to this rule, with a certain operator?
 
-
+i think with a %
 
 4 - What is string concatenation? How does it work?
 
-
+it joins your imput together 
+you add a plus outside of the['']
 
 5 - What is string duplication? How does it work?
 
-
+its when you have the string repete itself for a set number of times
+like this [print(bob)*3]
 
 6 - Can you combine strings and integers? What about strings and floats? What happens if you do?
 
